@@ -1,0 +1,13 @@
+{
+    "name": "my-organizatioin-daniel Organization Workflow",
+    "description": "my-organizatioin-daniel CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
